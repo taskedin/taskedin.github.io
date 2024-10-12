@@ -1,3 +1,4 @@
+<div style="background-color:black">
 <br/>
 <br/>
 <p align="center">
@@ -13,8 +14,10 @@
 <br/>
 <div align="center">
   <p align="center">
-    <a href="https://github.com/taskedin">Follow the project on the <strong>GitHub</strong></a>
+    <a href="https://github.com/taskedin">Follow <strong>TaskedIn</strong> on the <strong>GitHub</strong></a>
+    <a href="https://github.com/taskedin/taskedin.github.io/discussions"> or Join our  <strong>Community</strong></a>
   </p>
 </div>
 <br/>
 <br/>
+</div>
